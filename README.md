@@ -57,3 +57,36 @@ Open the project
 Simply open the index.html file in your browser.
 
 Usage
+
+Usage
+
+The application allows users to explore veterinary-related services and manage basic pet information through a simple web interface.
+
+Future improvements may include:
+
+Appointment booking
+
+Online veterinary consultation
+
+Pet medical history tracking
+
+Admin dashboard for veterinarians
+
+Future Enhancements
+
+Database integration
+
+User authentication system
+
+Veterinary appointment scheduling
+
+Cloud-based pet health records
+
+Mobile-friendly UI improvements
+
+Author
+
+Syed Aakif Zain
+
+GitHub:
+https://github.com/syedaakifzain
