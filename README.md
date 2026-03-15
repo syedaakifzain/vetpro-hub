@@ -29,3 +29,15 @@ CSS
 JavaScript
 
 (Additional backend technologies can be integrated if required)
+
+Project Structure
+vetpro-hub/
+│
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── assets/
+│   └── images / icons
+└── README.md
