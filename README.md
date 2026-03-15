@@ -20,3 +20,12 @@ Simple and user-friendly interface
 
 Organized data management for veterinary activities
 
+Technologies Used
+
+HTML
+
+CSS
+
+JavaScript
+
+(Additional backend technologies can be integrated if required)
