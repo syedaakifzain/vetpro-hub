@@ -8,3 +8,15 @@ This project focuses on improving accessibility to veterinary services and maint
 
 ---
 
+Features
+
+Pet information management
+
+Veterinary service support
+
+Health record tracking for animals
+
+Simple and user-friendly interface
+
+Organized data management for veterinary activities
+
