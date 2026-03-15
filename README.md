@@ -41,3 +41,19 @@ vetpro-hub/
 ├── assets/
 │   └── images / icons
 └── README.md
+
+Installation
+
+Clone the repository
+
+git clone https://github.com/syedaakifzain/vetpro-hub.git
+
+Navigate to the project directory
+
+cd vetpro-hub
+
+Open the project
+
+Simply open the index.html file in your browser.
+
+Usage
